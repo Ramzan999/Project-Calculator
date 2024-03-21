@@ -26,3 +26,5 @@ if (asnwer.operator === "Addition") {
 } else {
     console.log("Please select valid operator")
 };
+
+console.log("Calculator by TypeScript");
